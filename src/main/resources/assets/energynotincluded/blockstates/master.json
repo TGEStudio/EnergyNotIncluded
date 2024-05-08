@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "is_master=true": {
+      "model": "energynotincluded:block/master"
+    },
+    "is_master=false": {
+      "model": "energynotincluded:block/slave"
+    }
+  }
+}
